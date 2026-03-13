@@ -1,0 +1,42 @@
+{
+  "functions": {
+    "source": "functions"
+  },
+  "firestore": {
+    "database": "(default)",
+    "location": "us-central",
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "auth": {
+    "providers": {
+      "emailPassword": true,
+      "googleSignIn": {
+        "oAuthBrandDisplayName": "BlueTalk",
+        "supportEmail": "mdrahirahman9999@gmail.com"
+      }
+    }
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "bluetalk-23fa9",
+          "appId": "1:276991854191:android:eca5b4aa6b0f20da812f9a",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "bluetalk-23fa9",
+          "configurations": {
+            "android": "1:276991854191:android:eca5b4aa6b0f20da812f9a",
+            "ios": "1:276991854191:ios:4aa30d2daf1d8ef8812f9a",
+            "web": "1:276991854191:web:8349b60d293bef2c812f9a",
+            "windows": "1:276991854191:web:f49abc2018e8fd2c812f9a"
+          }
+        }
+      }
+    }
+  }
+}

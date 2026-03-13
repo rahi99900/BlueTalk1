@@ -1,0 +1,256 @@
+> Task :gradle:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :gradle:compileKotlin UP-TO-DATE
+> Task :gradle:compileJava NO-SOURCE
+> Task :gradle:compileGroovy NO-SOURCE
+> Task :gradle:pluginDescriptors UP-TO-DATE
+> Task :gradle:processResources UP-TO-DATE
+> Task :gradle:classes UP-TO-DATE
+> Task :gradle:jar UP-TO-DATE
+
+> Task :app:signingReport
+Variant: debug
+Config: debug
+Store: C:\Users\RDP\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: E5:0E:38:B9:F8:7A:8E:58:D0:1A:AA:27:C6:37:85:CD
+SHA1: EB:1A:26:D0:47:9F:67:A2:CC:E6:AF:84:AD:E9:CC:3F:FE:C3:0D:23
+SHA-256: C7:90:A3:01:BE:52:4A:36:A5:24:D1:17:AD:17:0A:7A:87:9F:8B:0A:83:25:B7:3E:1B:A7:5B:4A:2E:21:77:85
+Valid until: Sunday, July 27, 2053
+----------
+Variant: release
+Config: debug
+Store: C:\Users\RDP\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: E5:0E:38:B9:F8:7A:8E:58:D0:1A:AA:27:C6:37:85:CD
+SHA1: EB:1A:26:D0:47:9F:67:A2:CC:E6:AF:84:AD:E9:CC:3F:FE:C3:0D:23
+SHA-256: C7:90:A3:01:BE:52:4A:36:A5:24:D1:17:AD:17:0A:7A:87:9F:8B:0A:83:25:B7:3E:1B:A7:5B:4A:2E:21:77:85
+Valid until: Sunday, July 27, 2053
+----------
+Variant: profile
+Config: debug
+Store: C:\Users\RDP\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: E5:0E:38:B9:F8:7A:8E:58:D0:1A:AA:27:C6:37:85:CD
+SHA1: EB:1A:26:D0:47:9F:67:A2:CC:E6:AF:84:AD:E9:CC:3F:FE:C3:0D:23
+SHA-256: C7:90:A3:01:BE:52:4A:36:A5:24:D1:17:AD:17:0A:7A:87:9F:8B:0A:83:25:B7:3E:1B:A7:5B:4A:2E:21:77:85
+Valid until: Sunday, July 27, 2053
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\RDP\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: E5:0E:38:B9:F8:7A:8E:58:D0:1A:AA:27:C6:37:85:CD
+SHA1: EB:1A:26:D0:47:9F:67:A2:CC:E6:AF:84:AD:E9:CC:3F:FE:C3:0D:23
+SHA-256: C7:90:A3:01:BE:52:4A:36:A5:24:D1:17:AD:17:0A:7A:87:9F:8B:0A:83:25:B7:3E:1B:A7:5B:4A:2E:21:77:85
+Valid until: Sunday, July 27, 2053
+----------
+
+> Task :app_links:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\RDP\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: E5:0E:38:B9:F8:7A:8E:58:D0:1A:AA:27:C6:37:85:CD
+SHA1: EB:1A:26:D0:47:9F:67:A2:CC:E6:AF:84:AD:E9:CC:3F:FE:C3:0D:23
+SHA-256: C7:90:A3:01:BE:52:4A:36:A5:24:D1:17:AD:17:0A:7A:87:9F:8B:0A:83:25:B7:3E:1B:A7:5B:4A:2E:21:77:85
+Valid until: Sunday, July 27, 2053
+----------
+
+> Task :cloud_firestore:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\RDP\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: E5:0E:38:B9:F8:7A:8E:58:D0:1A:AA:27:C6:37:85:CD
+SHA1: EB:1A:26:D0:47:9F:67:A2:CC:E6:AF:84:AD:E9:CC:3F:FE:C3:0D:23
+SHA-256: C7:90:A3:01:BE:52:4A:36:A5:24:D1:17:AD:17:0A:7A:87:9F:8B:0A:83:25:B7:3E:1B:A7:5B:4A:2E:21:77:85
+Valid until: Sunday, July 27, 2053
+----------
+
+> Task :connectivity_plus:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\RDP\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: E5:0E:38:B9:F8:7A:8E:58:D0:1A:AA:27:C6:37:85:CD
+SHA1: EB:1A:26:D0:47:9F:67:A2:CC:E6:AF:84:AD:E9:CC:3F:FE:C3:0D:23
+SHA-256: C7:90:A3:01:BE:52:4A:36:A5:24:D1:17:AD:17:0A:7A:87:9F:8B:0A:83:25:B7:3E:1B:A7:5B:4A:2E:21:77:85
+Valid until: Sunday, July 27, 2053
+----------
+
+> Task :firebase_auth:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\RDP\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: E5:0E:38:B9:F8:7A:8E:58:D0:1A:AA:27:C6:37:85:CD
+SHA1: EB:1A:26:D0:47:9F:67:A2:CC:E6:AF:84:AD:E9:CC:3F:FE:C3:0D:23
+SHA-256: C7:90:A3:01:BE:52:4A:36:A5:24:D1:17:AD:17:0A:7A:87:9F:8B:0A:83:25:B7:3E:1B:A7:5B:4A:2E:21:77:85
+Valid until: Sunday, July 27, 2053
+----------
+
+> Task :firebase_core:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\RDP\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: E5:0E:38:B9:F8:7A:8E:58:D0:1A:AA:27:C6:37:85:CD
+SHA1: EB:1A:26:D0:47:9F:67:A2:CC:E6:AF:84:AD:E9:CC:3F:FE:C3:0D:23
+SHA-256: C7:90:A3:01:BE:52:4A:36:A5:24:D1:17:AD:17:0A:7A:87:9F:8B:0A:83:25:B7:3E:1B:A7:5B:4A:2E:21:77:85
+Valid until: Sunday, July 27, 2053
+----------
+
+> Task :firebase_messaging:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\RDP\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: E5:0E:38:B9:F8:7A:8E:58:D0:1A:AA:27:C6:37:85:CD
+SHA1: EB:1A:26:D0:47:9F:67:A2:CC:E6:AF:84:AD:E9:CC:3F:FE:C3:0D:23
+SHA-256: C7:90:A3:01:BE:52:4A:36:A5:24:D1:17:AD:17:0A:7A:87:9F:8B:0A:83:25:B7:3E:1B:A7:5B:4A:2E:21:77:85
+Valid until: Sunday, July 27, 2053
+----------
+
+> Task :firebase_storage:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\RDP\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: E5:0E:38:B9:F8:7A:8E:58:D0:1A:AA:27:C6:37:85:CD
+SHA1: EB:1A:26:D0:47:9F:67:A2:CC:E6:AF:84:AD:E9:CC:3F:FE:C3:0D:23
+SHA-256: C7:90:A3:01:BE:52:4A:36:A5:24:D1:17:AD:17:0A:7A:87:9F:8B:0A:83:25:B7:3E:1B:A7:5B:4A:2E:21:77:85
+Valid until: Sunday, July 27, 2053
+----------
+
+> Task :flutter_local_notifications:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\RDP\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: E5:0E:38:B9:F8:7A:8E:58:D0:1A:AA:27:C6:37:85:CD
+SHA1: EB:1A:26:D0:47:9F:67:A2:CC:E6:AF:84:AD:E9:CC:3F:FE:C3:0D:23
+SHA-256: C7:90:A3:01:BE:52:4A:36:A5:24:D1:17:AD:17:0A:7A:87:9F:8B:0A:83:25:B7:3E:1B:A7:5B:4A:2E:21:77:85
+Valid until: Sunday, July 27, 2053
+----------
+
+> Task :flutter_plugin_android_lifecycle:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\RDP\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: E5:0E:38:B9:F8:7A:8E:58:D0:1A:AA:27:C6:37:85:CD
+SHA1: EB:1A:26:D0:47:9F:67:A2:CC:E6:AF:84:AD:E9:CC:3F:FE:C3:0D:23
+SHA-256: C7:90:A3:01:BE:52:4A:36:A5:24:D1:17:AD:17:0A:7A:87:9F:8B:0A:83:25:B7:3E:1B:A7:5B:4A:2E:21:77:85
+Valid until: Sunday, July 27, 2053
+----------
+
+> Task :google_sign_in_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\RDP\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: E5:0E:38:B9:F8:7A:8E:58:D0:1A:AA:27:C6:37:85:CD
+SHA1: EB:1A:26:D0:47:9F:67:A2:CC:E6:AF:84:AD:E9:CC:3F:FE:C3:0D:23
+SHA-256: C7:90:A3:01:BE:52:4A:36:A5:24:D1:17:AD:17:0A:7A:87:9F:8B:0A:83:25:B7:3E:1B:A7:5B:4A:2E:21:77:85
+Valid until: Sunday, July 27, 2053
+----------
+
+> Task :image_picker_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\RDP\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: E5:0E:38:B9:F8:7A:8E:58:D0:1A:AA:27:C6:37:85:CD
+SHA1: EB:1A:26:D0:47:9F:67:A2:CC:E6:AF:84:AD:E9:CC:3F:FE:C3:0D:23
+SHA-256: C7:90:A3:01:BE:52:4A:36:A5:24:D1:17:AD:17:0A:7A:87:9F:8B:0A:83:25:B7:3E:1B:A7:5B:4A:2E:21:77:85
+Valid until: Sunday, July 27, 2053
+----------
+
+> Task :mobile_scanner:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\RDP\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: E5:0E:38:B9:F8:7A:8E:58:D0:1A:AA:27:C6:37:85:CD
+SHA1: EB:1A:26:D0:47:9F:67:A2:CC:E6:AF:84:AD:E9:CC:3F:FE:C3:0D:23
+SHA-256: C7:90:A3:01:BE:52:4A:36:A5:24:D1:17:AD:17:0A:7A:87:9F:8B:0A:83:25:B7:3E:1B:A7:5B:4A:2E:21:77:85
+Valid until: Sunday, July 27, 2053
+----------
+
+> Task :path_provider_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\RDP\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: E5:0E:38:B9:F8:7A:8E:58:D0:1A:AA:27:C6:37:85:CD
+SHA1: EB:1A:26:D0:47:9F:67:A2:CC:E6:AF:84:AD:E9:CC:3F:FE:C3:0D:23
+SHA-256: C7:90:A3:01:BE:52:4A:36:A5:24:D1:17:AD:17:0A:7A:87:9F:8B:0A:83:25:B7:3E:1B:A7:5B:4A:2E:21:77:85
+Valid until: Sunday, July 27, 2053
+----------
+
+> Task :permission_handler_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\RDP\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: E5:0E:38:B9:F8:7A:8E:58:D0:1A:AA:27:C6:37:85:CD
+SHA1: EB:1A:26:D0:47:9F:67:A2:CC:E6:AF:84:AD:E9:CC:3F:FE:C3:0D:23
+SHA-256: C7:90:A3:01:BE:52:4A:36:A5:24:D1:17:AD:17:0A:7A:87:9F:8B:0A:83:25:B7:3E:1B:A7:5B:4A:2E:21:77:85
+Valid until: Sunday, July 27, 2053
+----------
+
+> Task :share_plus:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\RDP\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: E5:0E:38:B9:F8:7A:8E:58:D0:1A:AA:27:C6:37:85:CD
+SHA1: EB:1A:26:D0:47:9F:67:A2:CC:E6:AF:84:AD:E9:CC:3F:FE:C3:0D:23
+SHA-256: C7:90:A3:01:BE:52:4A:36:A5:24:D1:17:AD:17:0A:7A:87:9F:8B:0A:83:25:B7:3E:1B:A7:5B:4A:2E:21:77:85
+Valid until: Sunday, July 27, 2053
+----------
+
+> Task :shared_preferences_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\RDP\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: E5:0E:38:B9:F8:7A:8E:58:D0:1A:AA:27:C6:37:85:CD
+SHA1: EB:1A:26:D0:47:9F:67:A2:CC:E6:AF:84:AD:E9:CC:3F:FE:C3:0D:23
+SHA-256: C7:90:A3:01:BE:52:4A:36:A5:24:D1:17:AD:17:0A:7A:87:9F:8B:0A:83:25:B7:3E:1B:A7:5B:4A:2E:21:77:85
+Valid until: Sunday, July 27, 2053
+----------
+
+> Task :sqflite_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\RDP\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: E5:0E:38:B9:F8:7A:8E:58:D0:1A:AA:27:C6:37:85:CD
+SHA1: EB:1A:26:D0:47:9F:67:A2:CC:E6:AF:84:AD:E9:CC:3F:FE:C3:0D:23
+SHA-256: C7:90:A3:01:BE:52:4A:36:A5:24:D1:17:AD:17:0A:7A:87:9F:8B:0A:83:25:B7:3E:1B:A7:5B:4A:2E:21:77:85
+Valid until: Sunday, July 27, 2053
+----------
+
+> Task :url_launcher_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\RDP\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: E5:0E:38:B9:F8:7A:8E:58:D0:1A:AA:27:C6:37:85:CD
+SHA1: EB:1A:26:D0:47:9F:67:A2:CC:E6:AF:84:AD:E9:CC:3F:FE:C3:0D:23
+SHA-256: C7:90:A3:01:BE:52:4A:36:A5:24:D1:17:AD:17:0A:7A:87:9F:8B:0A:83:25:B7:3E:1B:A7:5B:4A:2E:21:77:85
+Valid until: Sunday, July 27, 2053
+----------
+
+[Incubating] Problems report is available at: file:///C:/Users/RDP/Downloads/BlueTalk1-main/build/reports/problems/problems-report.html
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 10.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/9.3.1/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD SUCCESSFUL in 4s
+23 actionable tasks: 19 executed, 4 up-to-date
+Consider enabling configuration cache to speed up this build: https://docs.gradle.org/9.3.1/userguide/configuration_cache_enabling.html
